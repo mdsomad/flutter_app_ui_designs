@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app_ui_designs/Screen/team_folder.dart';
+import 'package:flutter_app_ui_designs/Screen/home.dart';
 
 void main() {
   runApp(const MyApp());
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: TeamFolderScreen()
+      home: HomePage()
     );
   }
 }
