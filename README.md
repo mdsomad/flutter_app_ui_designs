@@ -1,16 +1,55 @@
 # flutter_app_ui_designs
 
-A new Flutter project.
+A new Flutter project
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Cloud Files Storage Flutter Ui Preview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  
+  
+<tr>                    
+   
+   <th>Team Folder Screen View</th>
+   <th>Team Folder Screen Botton View</th>
+   <th> Project Screen View</th> 
+
+</tr>
+  
+  
+  
+  
+<tr>
+
+<td>
+
+<img src="https://user-images.githubusercontent.com/103892160/231439526-c6da58cc-c0f5-4add-ab5e-2ca0b1a90a62.jpg" alt="Team Folder Screen Example" width="270"/>
+
+</td>
+  
+  
+  
+<td>
+
+ <img src="https://user-images.githubusercontent.com/103892160/231438778-981d5452-6dfc-4bf1-b4b7-e3cfbdb28d20.jpg" alt="Team Folder Screen Botton Example" width="270"/>
+
+</td>
+
+  
+<td>
+  
+<img src="https://user-images.githubusercontent.com/103892160/231439030-220299a8-f07a-4653-88b7-076f1d019f5d.jpg" alt=" Project Screen Example" width="270"/>
+
+</td>
+  
+
+
+</tr>
+</table>
+
+
+
+
+
