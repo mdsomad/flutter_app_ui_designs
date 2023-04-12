@@ -1,4 +1,4 @@
-# Flutter App ui designs
+# Flutter App Ui designs
 
 A new Flutter project
 
