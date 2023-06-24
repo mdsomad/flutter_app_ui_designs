@@ -25,6 +25,19 @@ A new Flutter project
 
 <td>
 
+
+
+<video width="270">
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+
+</td>
+<td>
+
+
+
 <img src="https://user-images.githubusercontent.com/103892160/231439526-c6da58cc-c0f5-4add-ab5e-2ca0b1a90a62.jpg" alt="Team Folder Screen Example" width="270"/>
 
 </td>
