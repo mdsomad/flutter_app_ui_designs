@@ -4,17 +4,18 @@ A new Flutter project
 
 
 
-## Cloud Files Storage Flutter Ui Preview
-
+## Social Media itstafeed Ui Preview
 
 <table>
   
   
 <tr>                    
    
-   <th>Team Folder Screen View</th>
-   <th>Team Folder Screen Botton View</th>
-   <th> Project Screen View</th> 
+   <th>Home Screen View</th>
+   <th>Home Screen View 2</th>
+   <th>Home Screen View 3</th>
+   <th>Home Screen View 4</th>
+
 
 </tr>
   
@@ -27,18 +28,7 @@ A new Flutter project
 
 
 
-<video width="270">
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
-
-</td>
-<td>
-
-
-
-<img src="https://user-images.githubusercontent.com/103892160/231439526-c6da58cc-c0f5-4add-ab5e-2ca0b1a90a62.jpg" alt="Team Folder Screen Example" width="270"/>
+<img src="https://github.com/mdsomad/flutter_app_ui_designs/assets/103892160/a1f01574-e342-447e-b4a1-36aee087fd32" alt="Home Screen View Example" width="270"/>
 
 </td>
   
@@ -46,21 +36,32 @@ A new Flutter project
   
 <td>
 
- <img src="https://user-images.githubusercontent.com/103892160/231438778-981d5452-6dfc-4bf1-b4b7-e3cfbdb28d20.jpg" alt="Team Folder Screen Botton Example" width="270"/>
+ <img src="https://github.com/mdsomad/flutter_app_ui_designs/assets/103892160/4f0f3555-7079-4ad1-b42a-c710e1a36a2e" alt="Home Screen View 2 Example" width="270"/>
 
 </td>
 
   
 <td>
   
-<img src="https://user-images.githubusercontent.com/103892160/231439030-220299a8-f07a-4653-88b7-076f1d019f5d.jpg" alt=" Project Screen Example" width="270"/>
+<img src="https://github.com/mdsomad/flutter_app_ui_designs/assets/103892160/0e665fbf-9d7c-46fe-af48-355a88b07351" alt=" Home Screen View 3 Example" width="270"/>
+
+</td>
+
+<td>
+  
+<img src="https://github.com/mdsomad/flutter_app_ui_designs/assets/103892160/2a303559-4cf0-4ddf-b927-b8e7ab7047ba" alt=" Home Screen View 4 Example" width="270"/>
 
 </td>
   
+
 
 
 </tr>
+
 </table>
+
+
+
 
 
 
