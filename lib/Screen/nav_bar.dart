@@ -2,20 +2,22 @@ import 'package:flutter/material.dart';
 // ignore_for_file: prefer_const_constructors
 
 class NavBar extends StatelessWidget {
-  const NavBar(
-      {super.key,
-      required this.selectedIndex,
-      required this.onDestinationSelected});
+
   final int selectedIndex;
   final ValueChanged<int> onDestinationSelected;
 
+  const NavBar({super.key,
+      required this.selectedIndex,
+      required this.onDestinationSelected
+  });
+
   @override
   Widget build(BuildContext context) {
-    // ignore: prefer_const_literals_to_create_immutables
+    //* ignore: prefer_const_literals_to_create_immutables
     return NavigationBar(
         selectedIndex: selectedIndex,
         onDestinationSelected: onDestinationSelected,
-        // ignore: prefer_const_literals_to_create_immutables
+        //* ignore: prefer_const_literals_to_create_immutables
         destinations: [
           NavigationDestination(
               icon: Icon(Icons.home_outlined),
