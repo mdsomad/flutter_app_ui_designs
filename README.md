@@ -23,7 +23,7 @@ A new Flutter project
 
 <td>
 
-<img src="" alt="Admin Panel" width="270"/>
+<img src="https://github.com/mdsomad/flutter_app_ui_designs/assets/103892160/dff9b287-4138-4092-9c04-2f2d42f5a76f" alt="Admin Panel"/>
 
 </td>
   
