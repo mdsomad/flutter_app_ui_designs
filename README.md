@@ -23,7 +23,7 @@ A new Flutter project
 
 <td>
 
-<img src="https://github.com/mdsomad/flutter_app_ui_designs/assets/103892160/3920e6a1-a3d3-4730-8190-b4b443994af0" alt="Home Screen Screen" width="270"/>
+<img src="https://github.com/mdsomad/flutter_app_ui_designs/assets/103892160/3920e6a1-a3d3-4730-8190-b4b443994af0" alt="Home Screen" width="270"/>
 
 </td>
   
