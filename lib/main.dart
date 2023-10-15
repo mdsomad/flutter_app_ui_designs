@@ -1,23 +1,26 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app_ui_designs/Screen/home_screen.dart';
+import 'package:flutter_app_ui_designs/screen/home.dart';
+import 'package:google_fonts/google_fonts.dart';
+
+import 'constants.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
-  const MyApp({Key? key}) : super(key: key);
+  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Ui Designs',
-      debugShowCheckedModeBanner: false,
-       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
-        useMaterial3: false,
+     debugShowCheckedModeBanner: false,
+      theme: ThemeData.dark().copyWith(
+        scaffoldBackgroundColor: bgColor,
+        textTheme: GoogleFonts.poppinsTextTheme(Theme.of(context).textTheme)
+            .apply(bodyColor: Colors.white),
+        canvasColor: secondaryColor,
       ),
-      home: Homescreen()
+      home: Home(),
     );
   }
 }
-
