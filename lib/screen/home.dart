@@ -3,6 +3,7 @@ import 'package:flutter_app_ui_designs/constants.dart';
 import 'package:flutter_app_ui_designs/models/devices.dart';
 import 'package:flutter_app_ui_designs/models/home_interior.dart';
 import 'package:flutter_app_ui_designs/screen/home_details.dart';
+import 'package:flutter_app_ui_designs/screen/settings.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
@@ -129,6 +130,11 @@ class _HomeState extends State<Home> with TickerProviderStateMixin{
         color: bgColor,
         padding: EdgeInsets.all(10),
         child: TabBar(
+          onTap: (value) {
+            if(value == 2){
+              Navigator.of(context).push(MaterialPageRoute(builder: (context) => Settings(),));
+            }
+          },
           labelColor: secondaryColor,
           unselectedLabelColor: Colors.green.shade400,
           controller: _tabController,
